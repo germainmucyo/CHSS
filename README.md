@@ -1,4 +1,3 @@
-# Lab 3 submission
 # Differential Fault Analysis (DFA) on AES
 
 This project implements Differential Fault Analysis (DFA) on the AES encryption algorithm. It includes a main DFA test and two extra credit tasks focusing on different fault injection models.
